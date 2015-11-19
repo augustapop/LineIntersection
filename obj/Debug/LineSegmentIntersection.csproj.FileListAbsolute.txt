@@ -1,0 +1,12 @@
+D:\Erno\TestProjects\TestProjects\LineSegmentIntersection\bin\Debug\LineSegmentIntersection.exe.config
+D:\Erno\TestProjects\TestProjects\LineSegmentIntersection\bin\Debug\LineSegmentIntersection.exe
+D:\Erno\TestProjects\TestProjects\LineSegmentIntersection\bin\Debug\LineSegmentIntersection.pdb
+D:\Erno\TestProjects\TestProjects\LineSegmentIntersection\obj\Debug\LineSegmentIntersection.csprojResolveAssemblyReference.cache
+D:\Erno\TestProjects\TestProjects\LineSegmentIntersection\obj\Debug\LineSegmentIntersection.exe
+D:\Erno\TestProjects\TestProjects\LineSegmentIntersection\obj\Debug\LineSegmentIntersection.pdb
+D:\(Documents)\Downloads\LineSegmentIntersection (2)\LineSegmentIntersection\bin\Debug\LineSegmentIntersection.exe.config
+D:\(Documents)\Downloads\LineSegmentIntersection (2)\LineSegmentIntersection\obj\Debug\LineSegmentIntersection.exe
+D:\(Documents)\Downloads\LineSegmentIntersection (2)\LineSegmentIntersection\obj\Debug\LineSegmentIntersection.pdb
+D:\(Documents)\Downloads\LineSegmentIntersection (2)\LineSegmentIntersection\bin\Debug\LineSegmentIntersection.exe
+D:\(Documents)\Downloads\LineSegmentIntersection (2)\LineSegmentIntersection\bin\Debug\LineSegmentIntersection.pdb
+D:\(Documents)\Downloads\LineSegmentIntersection (2)\LineSegmentIntersection\obj\Debug\LineSegmentIntersection.csprojResolveAssemblyReference.cache
